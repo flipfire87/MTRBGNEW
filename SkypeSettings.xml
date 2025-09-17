@@ -1,7 +1,8 @@
 <SkypeSettings>
     <Theming>  
        <ThemeName>Custom</ThemeName>
-       <CustomBackgroundMainFoRDisplay>Ochre1.jpg</CustomBackgroundMainFoRDisplay> 
+       <CustomBackgroundMainFoRDisplay>Claude.jpg</CustomBackgroundMainFoRDisplay> 
        <CustomBackgroundConsole>saver1.jpg</CustomBackgroundConsole>  
     </Theming>
  </SkypeSettings>
+
