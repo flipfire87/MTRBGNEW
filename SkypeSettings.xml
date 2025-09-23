@@ -2,8 +2,9 @@
     <Theming>  
        <ThemeName>Custom</ThemeName>
        <CustomBackgroundMainFoRDisplay>Ochre1.jpg</CustomBackgroundMainFoRDisplay> 
-       <CustomBackgroundConsole>Console.jpg</CustomBackgroundConsole>  
+       <CustomBackgroundConsole>Console1.jpg</CustomBackgroundConsole>  
     </Theming>
  </SkypeSettings>
+
 
 
